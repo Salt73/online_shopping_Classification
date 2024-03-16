@@ -179,4 +179,7 @@ Now, let's go through our data processing funtion, to understand the role of eac
 
 ## Finally I tested both models and draw a plotsto compare between there training and validation accuracies the I saved it as the last step 
 
-# I hope you have enjoyed this notebook amd found it useful :)
+
+
+
+# I hope you have enjoyed this notebook and found it useful :)
