@@ -160,7 +160,7 @@ Now, let's go through our data processing funtion, to understand the role of eac
 
 # After building and training our model, we've seen that it's not performing well on the training neither testing, so we have to fine tune it
 
-  ### Let's gp through the fine tuning steps quickly
+  ### Let's go through the fine tuning steps quickly
 
   at the tunung I've used several techniques, But unfortunately, I've used only some of it (Due to the lake of the powerfull hardware problem I've mentioned previously)
 #### Those techniques are
@@ -179,5 +179,4 @@ Now, let's go through our data processing funtion, to understand the role of eac
 
 ## Finally I tested both models and draw a plotsto compare between there training and validation accuracies the I saved it as the last step 
 
-# I hope you have found this notebook useful and enjoyed it :)
-
+# I hope you have enjoyed this notebook amd found it useful :)
