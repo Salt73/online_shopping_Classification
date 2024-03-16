@@ -1,5 +1,5 @@
 # online_shopping_Classification
-A deep learning model used to do a binary classification between the footwear and the apparel for the  online shopping
+A deep learning model used to perform a binary classification (for an online shopping website) between the footwear and the apparel for the  online shopping
 # ____________________________________________________________________
 
 # In the following statements I'll go through the functionalities of this project and the used techniques, I'll try not to make it boring :D
